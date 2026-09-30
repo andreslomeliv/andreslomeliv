@@ -12,3 +12,7 @@ Other interests include:
   1. Paino
   2. Guitar
 4. Running
+
+Main projects: 
+* [Python API wrapper for INEGI](https://github.com/andreslomeliv/DatosMex/tree/master/INEGIpy)
+* [Evaluation of Mexico's City Metrobus using Synthetic Controls](https://github.com/andreslomeliv/traffic_analysis_cdmx)
