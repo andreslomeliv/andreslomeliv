@@ -1,6 +1,6 @@
 # Introduction to myself
 
-My name is Andrés Lomelí, I'm from Mexico and studied economics on Mexico's National Autonomus University. Right now I'm doing a Master's degree at Imperial focusing on Data Science and Machine Learning. Over the last years I have focused my academic and profesional experinece on using Python and SQL for applied statistics, statistical inference, causal inference and machine learning. 
+My name is Andrés Lomelí, I'm from Mexico and studied economics on Mexico's National Autonomus University. Right now I'm doing a Master's degree at [Imperial](https://www.imperial.ac.uk/) focusing on Data Science and Machine Learning. Over the last years I have focused my academic and profesional experinece on using Python and SQL for applied statistics, statistical inference, causal inference and machine learning. 
 
 My main reaserch interests are on the application of machine learning and causal inference to the social sciences. I've worked on the use of causal inference methodologies to evaluate urban public policy in Mexico City. My other main projects focus on open data access through Python for Mexico's most important data sources for economics. 
 
